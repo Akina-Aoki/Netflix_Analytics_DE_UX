@@ -1,3 +1,5 @@
+
+
 # Python bytecode/cache
 __pycache__/
 *.py[cod]
@@ -75,3 +77,12 @@ Thumbs.db
 data/bronze/*
 data/silver/*
 data/gold/*
+
+data/
+database/*.duckdb
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# DuckDB (local analytical DB)
+*.duckdb
