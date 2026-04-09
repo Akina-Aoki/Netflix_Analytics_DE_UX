@@ -76,6 +76,7 @@ data/processed/*.csv
 # --- Allow small sample datasets (optional) ---
 !data/processed/sample_*.csv
 !data/processed/sample_*.parquet
+!data/processed/sample_*.xlsx
 
 # --- Local analytical databases ---
 database/

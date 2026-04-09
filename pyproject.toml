@@ -15,5 +15,6 @@ dependencies = [
     "pandas>=2.0.0,<3",
     "psycopg[binary]>=3.3.3",
     "pydantic>=2.12.5",
+    "seaborn>=0.13.2",
     "streamlit>=1.45.0",
 ]
