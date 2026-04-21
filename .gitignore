@@ -66,6 +66,7 @@ Thumbs.db
 !data/.gitkeep
 
 # --- Ignore raw / external data ---
+data/
 data/raw/
 data/external/
 
