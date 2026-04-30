@@ -31,13 +31,8 @@ Netflix_Analytics_DE_UX/
     └── Gavin/
     └── Marcus/
 │   └── aira_eda/                     
-│       ├── 00_eda_with_star_schema.ipynb
-│       ├── 01_global_weekly_eda_aira.ipynb
-│       ├── 02_global_alltime_eda_aira.ipynb
-│       ├── 03_country_weekly.ipynb
-│       ├── 04_netflix_merge_aira.ipynb
-│       ├── 05_day_and_a_half.ipynb
-│       └── 06_nordic_global_weekly.ipynb
+│        
+│       
 ├── sql/
 │   └── init.sql                      # SQL initialization scripts (Not used)
 ├── src/
@@ -58,7 +53,7 @@ Netflix_Analytics_DE_UX/
 Netflix Tudum (Source)
         │
         ▼
-Data export & consolidation
+Data export 
         │
         ▼
 Exploratory Data Analysis (individual EDA notebooks)
