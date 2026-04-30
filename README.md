@@ -3,7 +3,8 @@
 ## Project Overview
 This project is a collaboration between the Data Engineering and UX teams to build a user centered analytics product for Netflix Trends. The team combines data modeling (semantic model), exploratory analysis, storytelling visuals, and dashboard design in PowerBI and Streamlit so stakeholders can make data-driven decisions. 
 
-**Primary data source:**  https://www.netflix.com/tudum/top10
+- **Primary data source:**  https://www.netflix.com/tudum/top10
+- **Course Repository Used:** https://github.com/AIgineerAB/data_visualisation_bi_course
 
 ---
 
@@ -80,3 +81,6 @@ Dashboard delivery tracks
 - **Storytelling layer:** Matplotlib visuals are produced for narrative reporting and presentation.
 - **UX + BI collaboration:** Power BI dashboards are designed with UX input for usability and decision support.
 - **Application layer:** Streamlit is used as the deployable analytics frontend.
+
+
+
